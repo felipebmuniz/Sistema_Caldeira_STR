@@ -1,0 +1,12 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "stdio.h": "c",
+        "monitor_tela.h": "c",
+        "pthread.h": "c",
+        "stdlib.h": "c",
+        "info_tela.h": "c",
+        "socket.h": "c",
+        "buffer_duplo_resposta.h": "c"
+    }
+}
